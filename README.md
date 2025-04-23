@@ -1,5 +1,7 @@
 # MaiM-Connect
 
+> Forked from [MaiM-with-u/MaiBot](https://github.com/MaiM-with-u/MaiBot)
+> 
 > 本项目是基于 [MaiBot](https://github.com/MaiM-with-u/MaiBot) 的改进版本，主要增加了联网功能和工具系统增强。
 
 MaiM v62_lianwang 联网工具版 - 详细安装指南
