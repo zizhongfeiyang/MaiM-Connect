@@ -1,0 +1,8 @@
+websockets
+aiohttp
+asyncio
+requests
+maim_message
+loguru
+pillow
+tomli
