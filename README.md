@@ -4,6 +4,15 @@
 > 
 > 本项目是基于 [MaiBot](https://github.com/MaiM-with-u/MaiBot) 的改进版本，主要增加了联网功能和工具系统增强。
 
+## 许可证
+
+本项目基于 GNU General Public License v3 (GPLv3) 许可证发布。详情请参阅 [LICENSE](LICENSE) 文件。
+
+### 版权声明
+
+- 原项目版权归 MaiM-with-u 所有
+- 本项目改进部分的版权归 zizhongfeiyang 所有
+
 MaiM v62_lianwang 联网工具版 - 详细安装指南
 
 ## 项目说明
